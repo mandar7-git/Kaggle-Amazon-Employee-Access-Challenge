@@ -5,3 +5,5 @@
 -- The data was quite abstract. `XG Boost` was finally used after a bit of feature engineering. 
 
 -- It gave a public score of **0.83831**.
+
+-- Proper explanation and comments added in the notebook.
