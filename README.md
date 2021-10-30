@@ -6,4 +6,4 @@
 
 -- It gave a public score of **0.83831**.
 
--- Proper explanation and comments added in the [notebook](.\AmazonEACTask.ipynb).
+-- Proper explanation and comments added in the [notebook](.\Kaggle-Amazon-Employee-Access-Challenge\AmazonEACTask.ipynb).
